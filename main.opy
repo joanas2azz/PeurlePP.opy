@@ -1,2 +1,3 @@
-#!include "settings.opy"
-#!include "rules/"
+#!obfuscate
+#!include 'settings.opy'
+#!include 'rules/'
