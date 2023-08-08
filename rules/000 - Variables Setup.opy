@@ -1,0 +1,24 @@
+#!mainFile 'main.opy'
+
+globalvar INFORMATIONS_WARN_1
+globalvar INFORMATIONS_WARN_2
+globalvar SHOW_WORKSHOP_CODE
+globalvar SHOW_CREATOR_NAME
+globalvar SHOW_OWNER_NAME
+globalvar SHOW_TWITCH_CHANNEL
+
+globalvar T1_DAMAGE_DEALT
+globalvar T1_DAMAGE_RECEIVED
+globalvar T1_HEALING_DEALT
+globalvar T1_HEALING_RECEIVED
+globalvar T1_MAX_HEALTH
+globalvar T1_SCALING_SIZE
+globalvar T1_WALLHACK_ENABLED
+
+globalvar T2_DAMAGE_DEALT
+globalvar T2_DAMAGE_RECEIVED
+globalvar T2_HEALING_DEALT
+globalvar T2_HEALING_RECEIVED
+globalvar T2_MAX_HEALTH
+globalvar T2_SCALING_SIZE
+globalvar T2_WALLHACK_ENABLED
