@@ -1,3 +1,3 @@
-# #!obfuscate
+#!obfuscate
 #!include 'settings.opy'
 #!include 'rules/'
